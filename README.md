@@ -1,6 +1,9 @@
 # This projet follows this tutorial
 https://github.com/gitname/react-gh-pages
 
+# GH page:
+https://oliviercalmels.github.io/resume/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
